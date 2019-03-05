@@ -1,0 +1,67 @@
+body 
+{
+	background-color: rgb(240, 240, 240);
+	width: 100%;
+}
+
+.header
+{
+	width: 85%;
+}
+
+#ContenuPrincipal
+{
+	width: 85%;
+	font-size: 15px;
+	background-color: white;
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-top: 7.5%;
+}
+
+#Contenu
+{
+	display: block;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+.Titre
+{
+	color: #256dcc;
+	text-align: center;
+}
+
+
+.video1
+{
+	margin-top: 6.5%;
+	margin-left: 5%;
+	width: 480px;
+	height: 400px;
+	left: 20%;
+}
+
+#Contenu3
+{
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+.p4
+{
+	color: #256dcc;
+	font-size: 18px;
+	text-align: center;
+	display: inline-block;
+	margin-top: 5%;
+	margin-right: 8%;
+}
+
+
+
+.img1
+{
+	width: 250px;
+	height: 200px;
+}
