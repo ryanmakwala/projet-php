@@ -1,0 +1,2 @@
+Redirect 301 /api/user/read.php /api/user
+Redirect 301 /api/medecines/read.php /api/medecines
