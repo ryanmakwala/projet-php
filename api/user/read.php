@@ -32,9 +32,9 @@ while($row = $stmt->fetch(PDO::FETCH_ASSOC)){
 		"telephone" => $telephone,
 		"role" => $role,
 		"type" => $type,
-		"MedTraitant" => $MedTraitant,
-		"Patients" => $Patients,
-		"Medecine" => $Medecine
+		"doctor" => $doctor,
+		"patients" => $patients,
+		"prescriptions" => $prescriptions
 	);
 
 	array_push($user_arr['records'], $user_item);

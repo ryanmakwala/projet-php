@@ -14,9 +14,9 @@
  	public $telephone;
  	public $role;
  	public $type;
- 	public $MedTraitant;
- 	public $Patients;
- 	public $Medecine;
+ 	public $doctor;
+ 	public $patients;
+ 	public $prescriptions;
 
  	//constructor with $db as database connection 
  	public function __construct($db){
