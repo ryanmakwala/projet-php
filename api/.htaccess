@@ -1,0 +1,4 @@
+RewriteEngine on
+RewriteRule ^/api/users$ /api/user/read.php [QSA,L]
+RewriteRule ^/api/medicines$ /api/medecine/read.php [QSA,L]
+

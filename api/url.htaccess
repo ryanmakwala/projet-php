@@ -1,2 +1,3 @@
-Redirect 301 /api/user/read.php /api/user
-Redirect 301 /api/medecines/read.php /api/medecines
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST, OPTIONS
+Access-Control-Allow-Headers: Content-Type
